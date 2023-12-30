@@ -1,3 +1,5 @@
 .env
 venv/
-volume/
+minio-data/
+minio-db/
+postgres-db/
